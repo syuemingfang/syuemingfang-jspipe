@@ -1,0 +1,22 @@
+  .standard-javascript{
+    color:#666666;
+  }
+  .keyword{
+    color:#3392FF;
+  }
+  .future{
+    color:#666666;
+  }
+  .literal{
+    color:#FC304B;
+  }
+  .symbol{
+    color:#888888;
+  }
+  .js{
+     white-space: pre-wrap;       /* css-3 */
+     white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+     white-space: -pre-wrap;      /* Opera 4-6 */
+     white-space: -o-pre-wrap;    /* Opera 7 */
+     word-wrap: break-word;       /* Internet Explorer 5.5+ */
+  }
