@@ -3,8 +3,8 @@
 
 # jsPipe
   HTML, CSS and JavaScript Debugging Web-Applicatio.
-  [Getting Started](http://comment.cxm.tw)
-  [GitHub project](https://github.com/syuemingfang/syuemingfang-comment)
+  
+  [Getting Started](http://jspipe.cxm.tw) [GitHub project](https://github.com/syuemingfang/syuemingfang-jspipe)
 
 ****************************************************************************************************/
 
@@ -15,7 +15,6 @@
 
 ****************************************************************************************************/
 //!
-//!****************************************************************************************************
 if(!isset($_REQUEST['url'])){
 	header('Content-type: text/html');
 	$html=isset($_REQUEST['html']) ? $_REQUEST['html'] : '';
