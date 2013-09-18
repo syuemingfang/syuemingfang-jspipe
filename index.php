@@ -4,7 +4,7 @@
 # jsPipe
   HTML, CSS and JavaScript Debugging Web-Applicatio.
   
-  [Getting Started](http://jspipe.cxm.tw) [GitHub project](https://github.com/syuemingfang/syuemingfang-jspipe)
+  [Getting Started](http://jspipe.cxm.tw) [GitHub project](https://github.com/syuemingfang/syuemingfang-jspipe) [Documentation](http://comment.cxm.tw/?url=https://raw.github.com/syuemingfang/syuemingfang-jspipe/master/comment.json)
 
 ****************************************************************************************************/
 
@@ -14,7 +14,8 @@
 + Date: *Tue Aug 06 2013 16:47:48 GMT+0800 (Central Standard Time)*
 
 ****************************************************************************************************/
-//!
+
+//! 
 if(!isset($_REQUEST['url'])){
 	header('Content-type: text/html');
 	$html=isset($_REQUEST['html']) ? $_REQUEST['html'] : '';
